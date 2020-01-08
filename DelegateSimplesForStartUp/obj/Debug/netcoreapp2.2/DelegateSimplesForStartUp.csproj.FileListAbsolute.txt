@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.AssemblyInfo.cs
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\bin\Debug\netcoreapp2.2\DelegateSimplesForStartUp.deps.json
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\bin\Debug\netcoreapp2.2\DelegateSimplesForStartUp.runtimeconfig.json
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\bin\Debug\netcoreapp2.2\DelegateSimplesForStartUp.runtimeconfig.dev.json
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\bin\Debug\netcoreapp2.2\DelegateSimplesForStartUp.dll
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\bin\Debug\netcoreapp2.2\DelegateSimplesForStartUp.pdb
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.dll
+C:\Users\Code\source\repos\DelegateSimplesForStartUp\DelegateSimplesForStartUp\obj\Debug\netcoreapp2.2\DelegateSimplesForStartUp.pdb
